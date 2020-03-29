@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(0, 0%, 44%);
+}
+
+.jumbotron {
+    background-image: url("./store-front.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    color: #f8f525;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 2px 2px #1b1b1b;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
